@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.cuerpo {
+  background-attachment: fixed;
+  background-image: url(https://www.lifeder.com/wp-content/uploads/2021/10/clima-tipos.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.buscar {
+  margin-top: 3%;
+  text-align: center;
+}
+.selector {
+  font-size: 20px;
+  height: 35px;
+}
+.tarjeta {
+  background-color: #0e0e0eec;
+  border-radius: 40px;
+  color: white;
+  margin: 3% auto;
+  max-width: 500px;
+  padding: 20px;
+  text-align: center;
+}
+.lista {
+  list-style: none;
+}
+.imagen {
+  height: 100px;
+  width: 100px;
+}
+.titulo {
+  color: #00fffb;
+  font-size: 30px;
+}
+.subtitulo {
+  font-size: 25px;
+}
